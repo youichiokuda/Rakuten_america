@@ -1,4 +1,4 @@
-# Rakuten_america
+# 楽天の全米型インデックスファンドの分析
 
 楽天の全米型インデックスファンドがいいよ。ということなので　By じっちゃま。https://twitter.com/hirosetakao
 
