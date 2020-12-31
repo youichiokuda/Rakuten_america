@@ -1,6 +1,6 @@
 # Rakuten_america
 
-楽天の全米型インデックスファンドがいいよ。ということなので（By じっちゃま。https://twitter.com/hirosetakao　）
+楽天の全米型インデックスファンドがいいよ。ということなので　By じっちゃま。https://twitter.com/hirosetakao　
 
 FacebookのProphetで分析と予測をしてみました。
 
